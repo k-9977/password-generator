@@ -33,7 +33,7 @@ git clone https://github.com/k-9977/password-generator.git
 2. Go to the project folder:
 
 ```bash
-cd password-Generator
+cd password-generator
 ```
 
 3. Run the program:
