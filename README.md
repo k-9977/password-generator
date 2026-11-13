@@ -27,7 +27,7 @@ I made this project to practice Python fundamentals and learn how to build deskt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Password-Generator.git
+git clone https://github.com/k-9977/password-generator.git
 ```
 
 2. Go to the project folder:
